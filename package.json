@@ -1,0 +1,20 @@
+{
+  "name": "apipractice",
+  "version": "1.0.0",
+  "description": "Practicing mern",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nosolink/mernpractice.git"
+  },
+  "author": "nosolink",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nosolink/mernpractice/issues"
+  },
+  "homepage": "https://github.com/nosolink/mernpractice#readme"
+}
