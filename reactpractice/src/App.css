@@ -36,3 +36,78 @@
     transform: rotate(360deg);
   }
 }
+
+.Test {
+  border: 1px solid white;
+  border-radius: 12px;
+  padding: -60px;
+  min-width: 175px;
+}
+
+.divider {
+  border: 0.5px solid;
+  margin-bottom: 15px;
+  margin-top: -15px
+}
+.hp-bar {
+  border: 0.5px solid green;
+  margin-bottom: 15px;
+  margin-top: -15px
+}
+.atk-bar {
+  border: 0.5px solid red;
+  margin-bottom: 15px;
+  margin-top: -15px
+}
+.def-bar {
+  border: 0.5px solid blue;
+  margin-bottom: 15px;
+  margin-top: -15px
+}
+.spd-bar {
+  border: 0.5px solid yellow;
+  margin-bottom: 15px;
+  margin-top: -15px
+}
+.eva-bar {
+  border: 0.5px solid purple;
+  margin-bottom: 15px;
+  margin-top: -15px
+}
+
+.submitButton {
+  border: 1px solid green;
+  border-radius: 8px;
+  color: white;
+  font-size: 20px;
+  padding: 8px;
+  margin-top: 15px;
+  margin-bottom: -20px;
+  background-color: rgba(70, 184, 83, 0.3);
+}
+
+.submitButton:hover {
+  border: 1px solid green;
+  border-radius: 8px;
+  color: green;
+  font-size: 20px;
+  padding: 8px;
+  margin-top: 15px;
+  margin-bottom: -30px;
+  background-color: white;
+}
+
+.Input {
+  color: white;
+  background-color: #282c34;
+  border: none;
+  border-bottom: 2px solid white;
+  font-size: calc(10px + 2vmin);
+  overflow: hidden;
+}
+
+.Input:focus {
+  background-color: #282c34;
+  border: none;
+  border-bottom: 2px solid white;
+}

@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/nosolink/mernpractice/issues"
   },
-  "homepage": "https://github.com/nosolink/mernpractice#readme"
+  "homepage": "https://github.com/nosolink/mernpractice#readme",
+  "dependencies": {
+    "evergreen-ui": "^6.10.3"
+  }
 }
